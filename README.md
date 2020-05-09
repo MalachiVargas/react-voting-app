@@ -3,7 +3,7 @@ Voting app created with react that implements managing state and passing data be
 
 Followed lesson in the "Full Stack React" book.
 
-<img src="images/screenshots/voting-app.png" width="90%"></img>
+<img src="public/images/screenshots/voting-app.png" width="90%"></img>
 
 
 1. Ensure you have `npm` installed.
